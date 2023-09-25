@@ -1,0 +1,80 @@
+body { 
+    font-family: 'Roboto', sans-serif;
+}
+.header {
+}
+.header-navigation {
+}
+.header-logo { 
+color: var(--NAVY-BLUE, #2E2F42);
+font-family: Raleway, sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+.header-menu-list {
+}
+.header-menu-item {
+}
+.header-menu-link {
+}
+.header-address {
+}
+.header-address-list {
+}
+.header-address-item {
+}
+.solutions {
+}
+.solutions-title {
+}
+.solutions-btn {
+}
+.assignments {
+}
+.assignments-list {
+}
+.assignments-item {
+}
+.assignments-subtitle {
+}
+.assignments-item-text {
+}
+.assigments-subtitle {
+}
+.team {
+}
+.team-title {
+}
+.team-list {
+}
+.team-item {
+}
+.team-img {
+}
+.team-subtitle {
+}
+.team-item-text {
+}
+.portfolio {
+}
+.portfolio-title {
+}
+.portfolio-list {
+}
+.portfolio-item {
+}
+.portfolio-img {
+}
+.portfolio-subtitle {
+}
+.portfolio-item-text {
+}
+.footer {
+}
+.footer-logo {
+}
+.footer-text {
+}
